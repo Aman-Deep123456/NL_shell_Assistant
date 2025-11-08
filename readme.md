@@ -79,10 +79,13 @@ pip install pyaudio
 🎙️ Run the Assistant
 🧠 Text Mode
 python3 main.py
+
 🎤 Voice Mode
 python3 main.py --voice
+
 Then choose:
 Choose mode: (t)ext, (v)oice, (q)uit:
+
 🗣️ Example Voice Commands
 🗣️ What You Say	💻 What It Does
 “make a file notes.txt”	Creates file
@@ -116,6 +119,8 @@ Choose mode: (t)ext, (v)oice, (q)uit:
 3️⃣ executor.py safely performs the system action inside a sandbox
 4️⃣ logger.py records every action
 5️⃣ (Optional) Assistant can speak back using pyttsx3 🎧
+
+
 🔒 Safety Features
 ⚠️ Blocks destructive commands like rm -rf / or sudo
 🧩 Restricts operations to the current project folder
@@ -143,11 +148,13 @@ Listening...
 Listening...
 🌐 Your IP address: 192.168.1.104
 Listening...
+
 👋 Goodbye!
+
 🧑‍💻 Author
 Aman Deep 
 💼 Computer Science Student | NSS Volunteer | Developer Enthusiast
-🌐 LinkedIn
+🌐 LinkedIn   : https://www.linkedin.com/in/aman-deep-74300b28b/
 📧 [bhagatamandeep50@gmail.com]
 
 🤝 Contributing
@@ -162,6 +169,7 @@ If you find this project useful,
 ⭐ Star this repo on GitHub — it helps others discover it!
 “Automation is good, but voice automation is better.”
 — Aman Deep  🧠🎤
+
 🪄 Future Enhancements
 ✅ Continuous voice mode (hands-free)
 ✅ Text-to-speech feedback
