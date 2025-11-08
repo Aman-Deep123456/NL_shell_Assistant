@@ -1,0 +1,23 @@
+2025-11-07 21:06:24,499 - listener - INFO - Listening (timeout=5.0)...
+2025-11-07 21:06:32,981 - listener - INFO - Transcription: make directory
+2025-11-07 21:06:32,982 - parser - DEBUG - Parsing: make directory
+2025-11-07 21:06:53,348 - listener - INFO - Listening (timeout=5.0)...
+2025-11-07 21:06:57,582 - listener - INFO - Transcription: make directory Amand
+2025-11-07 21:06:57,582 - parser - DEBUG - Parsing: make directory amand
+2025-11-07 21:15:58,935 - listener - INFO - Listening (timeout=5.0)...
+2025-11-07 21:16:09,799 - listener - ERROR - Speech listen/recognize failed: 
+2025-11-07 21:16:13,320 - listener - INFO - Listening (timeout=5.0)...
+2025-11-07 21:16:17,515 - listener - INFO - Transcription: create
+2025-11-07 21:16:17,522 - executor - INFO - Executing intent: Intent.CREATE_FILE, src=None, dst=None
+2025-11-07 21:16:22,934 - listener - INFO - Listening (timeout=5.0)...
+2025-11-07 21:16:27,411 - listener - INFO - Transcription: create directory Amand
+2025-11-07 21:16:27,413 - executor - INFO - Executing intent: Intent.CREATE_FOLDER, src=amand, dst=None
+2025-11-08 00:23:18,912 - listener - ERROR - speech_recognition import failed: No module named 'speech_recognition'
+Traceback (most recent call last):
+  File "/Users/amanpayal/Desktop/nl_shell_assistant/listener.py", line 20, in __init__
+    import speech_recognition as sr
+ModuleNotFoundError: No module named 'speech_recognition'
+2025-11-08 00:23:18,912 - __main__ - INFO - Speech listener unavailable — continuing with text input
+2025-11-08 00:24:46,370 - executor - INFO - Executing intent: Intent.CREATE_FILE, src=b.txt, dst=None
+2025-11-08 00:25:19,142 - executor - INFO - Executing intent: Intent.OPEN_FILE, src=b.txt, dst=None
+2025-11-08 00:25:40,449 - executor - INFO - Executing intent: Intent.OPEN_FILE, src=None, dst=None

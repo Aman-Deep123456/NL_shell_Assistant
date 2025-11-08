@@ -1,0 +1,133 @@
+🗂️ FILE CREATION & OPENING
+Commands to make, open, and edit files.
+🗣️ Example Command	💡 What It Does
+make a file notes.txt	Creates a file named notes.txt
+create file data.csv	Creates a CSV file
+new file report.docx	Makes a file called report.docx
+open file notes.txt	Opens the file using your default app
+display file notes.txt	Opens the file in Finder
+show file report.txt	Opens report.txt
+make a new file results.txt	Creates results.txt
+generate file test.py	Creates test.py
+add file log.txt	Creates log.txt
+📁 FOLDER / DIRECTORY COMMANDS
+Commands to make, delete, rename, and list folders.
+🗣️ Command	💡 Action
+make folder AmanDeep	Creates a folder named AmanDeep
+make directory Projects	Creates a directory called Projects
+create new folder reports	Creates a folder named reports
+mkdir data	Creates a folder named data
+remove folder Projects	Deletes the folder
+delete directory data	Deletes directory named data
+rename folder reports to final_reports	Renames folder
+list files	Lists all files and folders
+show all files in the current directory	Lists files in current folder
+show my folders	Lists all folders
+🧹 FILE MANAGEMENT (Move, Copy, Delete, Rename)
+Commands to organize your files.
+🗣️ Command	💡 Action
+move file notes.txt to Projects	Moves notes.txt into Projects folder
+copy file notes.txt to backup	Copies file into backup folder
+rename file notes.txt to summary.txt	Renames notes.txt
+delete file summary.txt	Deletes summary.txt
+remove file old_data.csv	Deletes old_data.csv
+duplicate file report.docx	Copies report.docx
+relocate file app.py to src	Moves app.py to src directory
+transfer file log.txt to backup	Moves log.txt
+clear folder temp	Removes temp folder and its contents
+📜 READING & WRITING FILES
+Commands to read or modify file content.
+🗣️ Command	💡 Action
+read file notes.txt	Reads contents of notes.txt
+read contents of report.txt	Displays file contents
+show contents of data.csv	Prints content of data.csv
+write to file todo.txt	Prompts you to enter new text
+append file todo.txt	Adds new text at the end
+update file todo.txt	Adds or replaces text
+edit file notes.txt	Opens text input for writing
+add a line to file list.txt	Appends new line
+🧭 NAVIGATION & LOCATION
+Commands to see where you are or explore directories.
+🗣️ Command	💡 Action
+where am I	Shows current working directory
+show current directory	Prints your current folder
+what is my current path	Displays full path
+list files in this directory	Lists files here
+show all folders	Lists all directories
+go to folder Projects	(If navigation feature added) changes into that folder
+go up one level	Moves up a directory (optional feature)
+🕓 SYSTEM INFORMATION
+Commands to check system and date/time info.
+🗣️ Command	💡 Action
+show date	Displays today’s date
+what’s the date today	Shows today’s date
+show time	Shows current system time
+what time is it	Displays local time
+current time	Prints time
+show disk usage	Displays disk space usage
+show memory usage	Shows memory info
+show processes	Lists running processes
+list running processes	Displays system process list
+🔍 SEARCH & FIND
+Commands to locate files or text in files.
+🗣️ Command	💡 Action
+find file notes.txt	Finds all files named notes.txt
+search file main.py	Locates main.py
+look for file test.txt	Searches for test.txt
+search for hello in all files	Searches all files for word “hello”
+find the word import	Finds occurrences of “import” in your code
+locate file data.json	Searches for data.json recursively
+grep for AmanDeep	Finds “AmanDeep” in all text files
+🌐 NETWORK COMMANDS
+Commands related to connectivity and IP info.
+🗣️ Command	💡 Action
+ping google.com	Checks internet connection
+test connection	Pings google.com
+check network	Verifies connectivity
+show my IP address	Displays your system’s IP
+what is my IP	Shows IP address
+display IP address	Prints your IP info
+🧰 DEVELOPER COMMANDS
+Commands useful for coding or project management.
+🗣️ Command	💡 Action
+run script test.py	Executes a Python script
+execute file app.py	Runs Python file
+start program main.py	Runs script
+show python version	Displays Python version
+check python version	Prints Python version
+list python files	Lists all .py files
+show log files	Lists all .log files
+find code file	Searches for code files recursively
+💬 UTILITY & CONTROL
+Commands to control or clean up your environment.
+🗣️ Command	💡 Action
+clear screen	Clears the terminal
+help	Displays available commands
+show help	Shows usage instructions
+manual	Displays the help text
+exit	Exits the assistant
+quit	Closes the assistant
+stop the program	Stops execution
+goodbye	Ends the session
+🧠 COMBINED / COMPLEX COMMANDS
+These are multi-action natural phrases the assistant will interpret.
+🗣️ Command	💡 Action
+make a folder called notes and move report.txt there	Creates folder and moves file
+find all .txt files and list them	Lists all text files
+show me all python scripts in this directory	Lists .py files
+create a new folder called backups and copy notes.txt there	Creates folder and copies file
+what time is it right now and where am I	Shows both time and path
+check my internet and show my IP address	Pings + shows IP
+list everything inside the reports folder	Lists folder contents
+read file todo.txt and show date	Reads file then prints date
+
+
+Example Running : make folder AmanDeep
+make file report.txt
+write to file report.txt
+read file report.txt
+list files
+show date
+ping google.com
+show my ip
+exit

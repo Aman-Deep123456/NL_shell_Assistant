@@ -1,0 +1,4 @@
+# minimal dependencies; voice is optional (speech_recognition needs pyaudio on many systems)
+SpeechRecognition>=3.8.1
+pyttsx3>=2.90
+pytest>=7.0.0
